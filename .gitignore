@@ -1,0 +1,8 @@
+target/
+temp/
+*.iml
+*.ipr
+*.iws
+*.iml.backup
+.idea/
+.DS_Store
